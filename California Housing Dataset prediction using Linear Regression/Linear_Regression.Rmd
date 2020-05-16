@@ -1,6 +1,6 @@
 ---
 title: "Linear Regression"
-author: "Lokeswari, Sriprasath"
+author: "Lokeswari"
 date: "February 9, 2020"
 output: html_document
 ---

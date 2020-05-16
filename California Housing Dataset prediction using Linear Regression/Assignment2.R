@@ -1,7 +1,7 @@
 
 library(tidyverse)
 require(tidyverse)
-California <- read.csv("https://personal.utdallas.edu/~sxg180154/housing.csv")
+California <- read.csv("https://personal.utdallas.edu/~lxu190000/housing.csv")
 View(California)
 summary(California)
 dim(California)

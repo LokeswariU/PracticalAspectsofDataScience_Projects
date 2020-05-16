@@ -3,6 +3,7 @@
 3. The icml_face_data.csv must be uploaded and mounted in your Google Drive.
 4. Download the icml_face_data.csv from (https://personal.utdallas.edu/~axa190084/icml_face_data.csv) this link.
 5. Mount the csv file dowloaded in your local machine to the Google Drive using the following commands :
+  
   // Command to be run in Google Colab
   
   from google.colab import files

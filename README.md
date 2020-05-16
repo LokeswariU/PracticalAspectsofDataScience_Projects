@@ -4,6 +4,9 @@
 4. Download the icml_face_data.csv from (https://personal.utdallas.edu/~axa190084/icml_face_data.csv) this link.
 5. Mount the csv file dowloaded in your local machine to the Google Drive using the following commands :
   // Command to be run in Google Colab
+  
   from google.colab import files
+  
   uploaded = files.upload()
-6. After running this command run the notebook code to train and test the model
+
+6.After running this command run the notebook code to train and test the model
